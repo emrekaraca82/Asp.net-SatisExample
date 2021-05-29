@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Arama";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="col-md-12">
+    <!-- Advanced Tables -->
+    <div class="panel panel-warning">
+
+        <div class="panel-heading">
+          Arama Tablosu
+        </div>
+
+        <div class="panel-body">
+            @using (Html.BeginForm())
+{
+    <p>
+        @Html.TextBox("ürünad")
+
+        <input type="submit" class="btn btn-warning btn-sm " value="Ara" />
+    </p>
+}
+ 
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                    <thead>
+                        <tr>
+                            <th>Ürün Resim</th>
+                            <th>Kategori Adı</th>
+                            <th>Ürün Barkod</th>
+                            <th>Ürün Adı</th>
+                            <th>Ürün Özellikleri</th>
+                            <th>Ürün Fiyat</th>                          
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (satıs.Models.ürünler u in Model)
+                        {
+                            <tr>
+                                <td><img src="/Resim/@u.ürünfoto" width="100" height="100"></td>
+                                <td> @u.katid </td>
+                                <td> @u.ürünbarkod </td>
+                                <td> @u.ürünad </td>
+                                <td> @u.ürünozellik </td>
+                                <td> @u.ürünfiyat </td>
+                            </tr>
+
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+    <!--End Advanced Tables -->
+</div>

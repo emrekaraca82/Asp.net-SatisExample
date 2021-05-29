@@ -1,0 +1,68 @@
+﻿@model satıs.Models.ürünler
+@{
+    ViewBag.Title = "Ürünekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using satıs.Models;
+
+@using (Html.BeginForm("Ürünekle", "Satıslar", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{ 
+<div class="col-md-10 col-sm-10">
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            Ürün Ekleme Formu
+        </div>
+
+        <form action="/Satıslar/Ürünekle" method="post" role="form">
+
+            <div class="form-group">
+                <label>Kategorid</label>
+                <select class="form-control" name="katid">
+                    @foreach (kategoriler kt in ViewBag.Kategoriler)
+                    {
+                        <option value="@kt.katid">@kt.katad</option>
+                    }
+
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Ürün Barkod</label>
+                <input class="form-control" name="ürünbarkod" />
+            </div>
+
+
+            <div class="form-group">
+              
+                <div class="form-group">
+                    <label for="exampleFormControlFile1">Resim Seç</label>
+                    <input type="file" class="form-control-file" id="ürünfoto" name="ürünfoto" accept=".jpg,.png,.gif,.jpeg,.JPEG">
+                </div>
+              
+            </div>
+
+
+            <div class="form-group">
+                <label>Ürün Adı</label>
+                <input class="form-control" name="ürünad" />
+            </div>
+
+            <div class="form-group">
+                <label>Ürün Özellikleri</label>
+                <textarea class="form-control" rows="5" name="ürünozellik"></textarea>
+            </div>
+
+            <label>Ürün Fiyat</label>
+
+            <div class="form-group input-group">
+                <span class="input-group-addon">$</span>
+                <input type="text" class="form-control" name="ürünfiyat">
+            </div>
+
+            <button type="submit" class="btn btn-success btn-lg"> EKLE  <i class="fa fa-check"></i>  </button>
+
+        </form>
+    </div>
+</div>
+}

@@ -1,0 +1,31 @@
+﻿@model satıs.Models.kullanıcılar
+@{
+    ViewBag.Title = "giris";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("giris", "Login", FormMethod.Post))
+{
+    <form style="max-width:500px;margin:auto">
+
+            <div class="ginput-container">
+                <i class="fa fa-user gicon"></i>
+                <input class="ginput-field" type="text" placeholder="Email" name="kulad">
+            </div>
+
+            <div class="ginput-container">
+                <i class="fa fa-key gicon"></i>
+                <input class="ginput-field" type="password" placeholder="Password" name="kulsifre">
+            </div>
+        
+        <div class="form-check">
+            <div class="ginput-container">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                <label class="form-check-label" for="exampleCheck1">Beni Hatırla</label>
+            </div>
+        </div>
+         <button type="submit" class="gbtnn">Giris Yap</button>
+       
+        </form>
+}

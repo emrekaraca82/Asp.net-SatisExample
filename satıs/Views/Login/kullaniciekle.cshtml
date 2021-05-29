@@ -1,0 +1,25 @@
+﻿@model satıs.Models.kullanıcılar
+@{
+    ViewBag.Title = "kullaniciekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("kullaniciekle", "Login", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+   
+        <form style="max-width:500px;margin:auto">
+
+            <div class="input-container">
+                <i class="fa fa-user icon"></i>
+                <input class="input-field" type="text" placeholder="Email" name="kulad">
+            </div>
+
+            <div class="input-container">
+                <i class="fa fa-key icon"></i>
+                <input class="input-field" type="password" placeholder="Password" name="kulsifre">
+            </div>
+
+            <button type="submit" class="btnn">Kaydet</button>
+        </form>
+         
+}

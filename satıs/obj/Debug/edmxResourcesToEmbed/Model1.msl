@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="karaca_teknolojiModelStoreContainer" CdmEntityContainer="karaca_teknolojiEntities1">
+    <EntitySetMapping Name="kategorilers">
+      <EntityTypeMapping TypeName="karaca_teknolojiModel.kategoriler">
+        <MappingFragment StoreEntitySet="kategoriler">
+          <ScalarProperty Name="katid" ColumnName="katid" />
+          <ScalarProperty Name="katad" ColumnName="katad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kullanıcılar">
+      <EntityTypeMapping TypeName="karaca_teknolojiModel.kullanıcılar">
+        <MappingFragment StoreEntitySet="kullanıcılar">
+          <ScalarProperty Name="kulid" ColumnName="kulid" />
+          <ScalarProperty Name="kulfoto" ColumnName="kulfoto" />
+          <ScalarProperty Name="kulad" ColumnName="kulad" />
+          <ScalarProperty Name="kulsifre" ColumnName="kulsifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="satıslar">
+      <EntityTypeMapping TypeName="karaca_teknolojiModel.satıslar">
+        <MappingFragment StoreEntitySet="satıslar">
+          <ScalarProperty Name="satisid" ColumnName="satisid" />
+          <ScalarProperty Name="ürünid" ColumnName="ürünid" />
+          <ScalarProperty Name="katid" ColumnName="katid" />
+          <ScalarProperty Name="adsoyad" ColumnName="adsoyad" />
+          <ScalarProperty Name="adres" ColumnName="adres" />
+          <ScalarProperty Name="telefon" ColumnName="telefon" />
+          <ScalarProperty Name="tutar" ColumnName="tutar" />
+          <ScalarProperty Name="islemzamanı" ColumnName="islemzamanı" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ürünler">
+      <EntityTypeMapping TypeName="karaca_teknolojiModel.ürünler">
+        <MappingFragment StoreEntitySet="ürünler">
+          <ScalarProperty Name="ürünid" ColumnName="ürünid" />
+          <ScalarProperty Name="katid" ColumnName="katid" />
+          <ScalarProperty Name="ürünbarkod" ColumnName="ürünbarkod" />
+          <ScalarProperty Name="ürünfoto" ColumnName="ürünfoto" />
+          <ScalarProperty Name="ürünad" ColumnName="ürünad" />
+          <ScalarProperty Name="ürünozellik" ColumnName="ürünozellik" />
+          <ScalarProperty Name="ürünfiyat" ColumnName="ürünfiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

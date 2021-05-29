@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="karaca_teknolojiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="kategoriler">
+    <Key>
+      <PropertyRef Name="katid" />
+    </Key>
+    <Property Name="katid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="katad" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="kullanıcılar">
+    <Key>
+      <PropertyRef Name="kulid" />
+    </Key>
+    <Property Name="kulid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kulfoto" Type="image" />
+    <Property Name="kulad" Type="nvarchar" MaxLength="50" />
+    <Property Name="kulsifre" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="satıslar">
+    <Key>
+      <PropertyRef Name="satisid" />
+    </Key>
+    <Property Name="satisid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ürünid" Type="int" />
+    <Property Name="katid" Type="int" />
+    <Property Name="adsoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="adres" Type="nvarchar" MaxLength="50" />
+    <Property Name="telefon" Type="nvarchar" MaxLength="50" />
+    <Property Name="tutar" Type="float" />
+    <Property Name="islemzamanı" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ürünler">
+    <Key>
+      <PropertyRef Name="ürünid" />
+    </Key>
+    <Property Name="ürünid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="katid" Type="int" />
+    <Property Name="ürünbarkod" Type="nvarchar" MaxLength="50" />
+    <Property Name="ürünfoto" Type="nvarchar" MaxLength="50" />
+    <Property Name="ürünad" Type="nvarchar" MaxLength="50" />
+    <Property Name="ürünozellik" Type="nvarchar" MaxLength="50" />
+    <Property Name="ürünfiyat" Type="float" />
+  </EntityType>
+  <EntityContainer Name="karaca_teknolojiModelStoreContainer">
+    <EntitySet Name="kategoriler" EntityType="Self.kategoriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kullanıcılar" EntityType="Self.kullanıcılar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="satıslar" EntityType="Self.satıslar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ürünler" EntityType="Self.ürünler" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

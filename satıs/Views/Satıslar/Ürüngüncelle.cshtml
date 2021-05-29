@@ -1,0 +1,68 @@
+﻿@using satıs.Models;
+@{
+    ViewBag.Title = "Ürüngüncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@using (Html.BeginForm("Ürüngüncelle", "Satıslar", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{ 
+<div class="col-md-10 col-sm-10">
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            Ürün Güncelleme Formu
+        </div>
+
+        <form action="/Satıslar/Ürüngüncelle" method="post" role="form">
+
+            <div class="form-group">
+                <label>Kategorid</label>
+                <select class="form-control" name="katid">
+                    @foreach (kategoriler kt in ViewBag.Kategoriler)
+                    {
+                        <option value="@kt.katid">@kt.katad</option>
+                    }
+
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Ürün Barkod</label>
+                <input class="form-control" name="ürünbarkod" />
+            </div>
+
+
+            <div class="form-group">
+                <label>Resim Seç</label>
+                <input type="file" id="inputFile" name="ürünfoto" accept="image/*" />
+
+            </div>
+
+            <div class="form-group">
+                <label>Ürün Adı</label>
+                <input class="form-control" name="ürünad" />
+            </div>
+
+            <div class="form-group">
+                <label>Ürün Özellikleri</label>
+                <textarea class="form-control" rows="5" name="ürünozellik"></textarea>
+            </div>
+
+            <label>Ürün Fiyat</label>
+
+            <div class="form-group input-group">
+                <span class="input-group-addon">$</span>
+                <input type="text" class="form-control" name="ürünfiyat">
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg"> Güncelle  <i class="fa fa-edit"></i>  </button>
+
+        </form>
+    </div>
+</div>
+}
+
+
+

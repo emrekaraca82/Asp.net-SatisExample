@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="karaca_teknolojiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="kategoriler">
+    <Key>
+      <PropertyRef Name="katid" />
+    </Key>
+    <Property Name="katid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="katad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="kullanıcılar">
+    <Key>
+      <PropertyRef Name="kulid" />
+    </Key>
+    <Property Name="kulid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kulfoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="kulad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="kulsifre" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="satıslar">
+    <Key>
+      <PropertyRef Name="satisid" />
+    </Key>
+    <Property Name="satisid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ürünid" Type="Int32" />
+    <Property Name="katid" Type="Int32" />
+    <Property Name="adsoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="tutar" Type="Double" />
+    <Property Name="islemzamanı" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="ürünler">
+    <Key>
+      <PropertyRef Name="ürünid" />
+    </Key>
+    <Property Name="ürünid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="katid" Type="Int32" />
+    <Property Name="ürünbarkod" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ürünfoto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ürünad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ürünozellik" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ürünfiyat" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="karaca_teknolojiEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="kategorilers" EntityType="Self.kategoriler" />
+    <EntitySet Name="kullanıcılar" EntityType="Self.kullanıcılar" />
+    <EntitySet Name="satıslar" EntityType="Self.satıslar" />
+    <EntitySet Name="ürünler" EntityType="Self.ürünler" />
+  </EntityContainer>
+</Schema>

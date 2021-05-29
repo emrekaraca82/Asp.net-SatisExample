@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="karaca_teknolojiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="kategoriler">
+          <Key>
+            <PropertyRef Name="katid" />
+          </Key>
+          <Property Name="katid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="katad" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="kullanıcılar">
+          <Key>
+            <PropertyRef Name="kulid" />
+          </Key>
+          <Property Name="kulid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kulfoto" Type="image" />
+          <Property Name="kulad" Type="nvarchar" MaxLength="50" />
+          <Property Name="kulsifre" Type="nvarchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="satıslar">
+          <Key>
+            <PropertyRef Name="satisid" />
+          </Key>
+          <Property Name="satisid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ürünid" Type="int" />
+          <Property Name="katid" Type="int" />
+          <Property Name="adsoyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="adres" Type="nvarchar" MaxLength="50" />
+          <Property Name="telefon" Type="nvarchar" MaxLength="50" />
+          <Property Name="tutar" Type="float" />
+          <Property Name="islemzamanı" Type="datetime" />
+        </EntityType>
+        <EntityType Name="ürünler">
+          <Key>
+            <PropertyRef Name="ürünid" />
+          </Key>
+          <Property Name="ürünid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="katid" Type="int" />
+          <Property Name="ürünbarkod" Type="nvarchar" MaxLength="50" />
+          <Property Name="ürünfoto" Type="nvarchar" MaxLength="50" />
+          <Property Name="ürünad" Type="nvarchar" MaxLength="50" />
+          <Property Name="ürünozellik" Type="nvarchar" MaxLength="50" />
+          <Property Name="ürünfiyat" Type="float" />
+        </EntityType>
+        <EntityContainer Name="karaca_teknolojiModelStoreContainer">
+          <EntitySet Name="kategoriler" EntityType="Self.kategoriler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kullanıcılar" EntityType="Self.kullanıcılar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="satıslar" EntityType="Self.satıslar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ürünler" EntityType="Self.ürünler" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="karaca_teknolojiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="kategoriler">
+          <Key>
+            <PropertyRef Name="katid" />
+          </Key>
+          <Property Name="katid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="katad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="kullanıcılar">
+          <Key>
+            <PropertyRef Name="kulid" />
+          </Key>
+          <Property Name="kulid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kulfoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="kulad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="kulsifre" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="satıslar">
+          <Key>
+            <PropertyRef Name="satisid" />
+          </Key>
+          <Property Name="satisid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ürünid" Type="Int32" />
+          <Property Name="katid" Type="Int32" />
+          <Property Name="adsoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="adres" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="tutar" Type="Double" />
+          <Property Name="islemzamanı" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="ürünler">
+          <Key>
+            <PropertyRef Name="ürünid" />
+          </Key>
+          <Property Name="ürünid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="katid" Type="Int32" />
+          <Property Name="ürünbarkod" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ürünfoto" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ürünad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ürünozellik" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ürünfiyat" Type="Double" />
+        </EntityType>
+        <EntityContainer Name="karaca_teknolojiEntities3" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="kategorilers" EntityType="Self.kategoriler" />
+          <EntitySet Name="kullanıcılar" EntityType="Self.kullanıcılar" />
+          <EntitySet Name="satıslar" EntityType="Self.satıslar" />
+          <EntitySet Name="ürünler" EntityType="Self.ürünler" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="karaca_teknolojiModelStoreContainer" CdmEntityContainer="karaca_teknolojiEntities3">
+          <EntitySetMapping Name="kategorilers">
+            <EntityTypeMapping TypeName="karaca_teknolojiModel.kategoriler">
+              <MappingFragment StoreEntitySet="kategoriler">
+                <ScalarProperty Name="katid" ColumnName="katid" />
+                <ScalarProperty Name="katad" ColumnName="katad" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kullanıcılar">
+            <EntityTypeMapping TypeName="karaca_teknolojiModel.kullanıcılar">
+              <MappingFragment StoreEntitySet="kullanıcılar">
+                <ScalarProperty Name="kulid" ColumnName="kulid" />
+                <ScalarProperty Name="kulfoto" ColumnName="kulfoto" />
+                <ScalarProperty Name="kulad" ColumnName="kulad" />
+                <ScalarProperty Name="kulsifre" ColumnName="kulsifre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="satıslar">
+            <EntityTypeMapping TypeName="karaca_teknolojiModel.satıslar">
+              <MappingFragment StoreEntitySet="satıslar">
+                <ScalarProperty Name="satisid" ColumnName="satisid" />
+                <ScalarProperty Name="ürünid" ColumnName="ürünid" />
+                <ScalarProperty Name="katid" ColumnName="katid" />
+                <ScalarProperty Name="adsoyad" ColumnName="adsoyad" />
+                <ScalarProperty Name="adres" ColumnName="adres" />
+                <ScalarProperty Name="telefon" ColumnName="telefon" />
+                <ScalarProperty Name="tutar" ColumnName="tutar" />
+                <ScalarProperty Name="islemzamanı" ColumnName="islemzamanı" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ürünler">
+            <EntityTypeMapping TypeName="karaca_teknolojiModel.ürünler">
+              <MappingFragment StoreEntitySet="ürünler">
+                <ScalarProperty Name="ürünid" ColumnName="ürünid" />
+                <ScalarProperty Name="katid" ColumnName="katid" />
+                <ScalarProperty Name="ürünbarkod" ColumnName="ürünbarkod" />
+                <ScalarProperty Name="ürünfoto" ColumnName="ürünfoto" />
+                <ScalarProperty Name="ürünad" ColumnName="ürünad" />
+                <ScalarProperty Name="ürünozellik" ColumnName="ürünozellik" />
+                <ScalarProperty Name="ürünfiyat" ColumnName="ürünfiyat" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

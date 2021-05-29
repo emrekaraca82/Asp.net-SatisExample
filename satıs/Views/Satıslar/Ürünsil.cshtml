@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Ürünsil";
+}
+@using satıs.Models;
+
+@model ürünler
+
+<div class="col-md-10 col-sm-10">
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            Ürün Silme Formu
+        </div>
+
+        <form action="/Satıslar/Ürünsil" method="post" role="form">
+            <input type="hidden" name="ürünid" value="@Model.ürünid" />
+            <label> @Model.ürünad ürün silinsin mi  </label>
+            <input type="submit" name="" value="evet" class="btn btn-danger "/>
+            </form>
+    </div>
+</div>

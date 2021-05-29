@@ -1,0 +1,275 @@
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\satıs.dll.config
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\satıs.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\satıs.pdb
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Antlr3.Runtime.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\EntityFramework.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\EntityFramework.SqlServer.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Newtonsoft.Json.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Owin.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Helpers.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Mvc.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Optimization.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Razor.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.WebPages.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\WebGrease.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Helpers.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Mvc.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Optimization.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.Razor.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.WebPages.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Newtonsoft.Json.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Antlr3.Runtime.pdb
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\EntityFramework.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\EntityFramework.SqlServer.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\obj\Debug\satıs.dll
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\obj\Debug\satıs.pdb
+C:\Users\Damla\Desktop\Yeni klasör\satıs\satıs\obj\Debug\satıs.csprojResolveAssemblyReference.cache
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\satıs.dll.config
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\satıs.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\satıs.pdb
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Antlr3.Runtime.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.SqlServer.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Newtonsoft.Json.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Owin.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Helpers.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Mvc.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Optimization.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Razor.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\WebGrease.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Helpers.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Mvc.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Optimization.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Razor.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Newtonsoft.Json.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Antlr3.Runtime.pdb
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.SqlServer.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\obj\Debug\satıs.dll
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\obj\Debug\satıs.pdb
+C:\Users\Damla\Desktop\Mvc Uygulamalar\satıs\satıs\obj\Debug\satıs.csprojResolveAssemblyReference.cache
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\satıs.dll.config
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\satıs.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\satıs.pdb
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Antlr3.Runtime.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.SqlServer.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Newtonsoft.Json.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Owin.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Helpers.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Mvc.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Optimization.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Razor.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\WebGrease.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Helpers.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Mvc.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Optimization.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.Razor.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Newtonsoft.Json.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Antlr3.Runtime.pdb
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\EntityFramework.SqlServer.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\obj\Debug\satıs.dll
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\obj\Debug\satıs.pdb
+C:\Users\Damla!\Desktop\Mvc Uygulamalar\satıs\satıs\obj\Debug\satıs.csprojResolveAssemblyReference.cache
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\satıs.dll.config
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\satıs.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\satıs.pdb
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Antlr3.Runtime.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\EntityFramework.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\EntityFramework.SqlServer.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Google.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Web.Infrastructure.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Newtonsoft.Json.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Owin.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Helpers.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Mvc.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Optimization.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Razor.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.WebPages.Deployment.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.WebPages.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.WebPages.Razor.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\WebGrease.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Helpers.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Mvc.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Optimization.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.Razor.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.WebPages.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.WebPages.Deployment.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\System.Web.WebPages.Razor.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Newtonsoft.Json.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Antlr3.Runtime.pdb
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\EntityFramework.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\EntityFramework.SqlServer.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Google.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\obj\Debug\satıs.csprojResolveAssemblyReference.cache
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\obj\Debug\satıs.dll
+D:\DERSLER\ÖNEMLİ  PROJELERİM\satıs\satıs\obj\Debug\satıs.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\satıs.dll.config
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\satıs.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\satıs.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Antlr3.Runtime.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\EntityFramework.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\EntityFramework.SqlServer.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Google.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Web.Infrastructure.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Newtonsoft.Json.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Owin.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Helpers.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Mvc.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Optimization.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Razor.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.WebPages.Deployment.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.WebPages.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.WebPages.Razor.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\WebGrease.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Helpers.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Mvc.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Optimization.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.Razor.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.WebPages.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.WebPages.Deployment.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\System.Web.WebPages.Razor.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Newtonsoft.Json.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Antlr3.Runtime.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\EntityFramework.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\EntityFramework.SqlServer.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Google.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\obj\Debug\satıs.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\obj\Debug\satıs.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\ASP.NET MVC\satıs\satıs\obj\Debug\satıs.csprojResolveAssemblyReference.cache
